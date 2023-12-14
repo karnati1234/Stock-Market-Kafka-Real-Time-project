@@ -1,9 +1,9 @@
 # Stock-Market-Kafka-Real-Time-project
 
 Introduction:
-In this project, you will execute an End-To-End Data Engineering Project on Real-Time Stock Market Data using Kafka.
+In this project, I execute an End-To-End Data Engineering Project on Real-Time Stock Market Data using Kafka.
 
- I am going to use different technologies such as Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
+ I used different technologies such as Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
 
 Architecture
 
